@@ -58,7 +58,6 @@ PyScript sits on top of:
 
  # Limitations
 
-- this github free account plus github-pages treament is only suitable for non-sensitive data
+- this github free account plus github-pages treatment is only suitable for non-sensitive data
 - if your app needs to import data from file, you can't just email the html and supporting files to someone, they need to run a local web server.  *For security, web browsers can't access local files without user permission.* There are probably ways around this, but I haven't looked into it.
-- pyodide is a large download, so the first time you run the app it takes a while to load.
 
