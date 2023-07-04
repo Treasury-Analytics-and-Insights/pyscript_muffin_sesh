@@ -8,7 +8,7 @@ backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 ---
 
-# PyScript: Python in the browser
+# Publishing model/data-vis apps with pyscript, panel, and github-pages
 
 ---
 
