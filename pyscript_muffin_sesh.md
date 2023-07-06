@@ -53,6 +53,8 @@ PyScript sits on top of:
 
   - one of our shiny apps converted to Python, using Panel for widgetty things. https://panel.holoviz.org/
   - https://github.com/Treasury-Analytics-and-Insights/pyscript_experiment
+  - an "Action" in the github repo publishes the app to github-pages whenever the main branch is updated 
+  - I think I just clicked a button in github to enable github-pages for the repo, and then added the Action by clicking "new Action" and selecting the "publish to github-pages" template.  I didn't have to write any code for the Action.
 
  ---
 
